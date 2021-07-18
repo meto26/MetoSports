@@ -1,0 +1,57 @@
+body{margin:0; padding:0}
+.main .h_satir{
+    width: 100%;
+    float: left;
+}
+
+.main .h_satir div{
+    float: left;
+    padding: 10px;
+    width: 10%;
+}
+.main .h_satir .hid{
+    width: 5%;
+}
+
+.main .h_satir img{
+   width: 100%;
+    float: left;
+}
+.main .basliklar{
+    font-weight: bold;
+}
+
+.container .sol {
+    width: 50%;
+    float: left;
+}
+.container .sag{
+    width: 50%;
+    float: left;
+}
+.container .sag a{
+
+    float: right;
+}
+.container{
+    padding: 20px;
+}
+
+.haber_ekle{
+    float:right;
+}
+.haber_ekle a{
+    padding: 5px;
+    border: solid 1px #18cc57;
+    color: #18cc57;
+    text-decoration: none;
+}
+.silindi{
+    border: solid 1px red;
+    padding: 11px;
+    color: green;
+    position: relative;
+    float: right;
+    margin: 50px;
+    display: none;
+}
